@@ -68,8 +68,7 @@ education:
     date_start: ''
     date_end: 2024-02-17
     summary: |
-      GPA: 4.5/4.5
-      Ranked 1st in the college of engineering.
+      GPA: 4.5/4.5 (Ranked 1st in the college of engineering.)
     
 work:
   - position: KAIRI Intern
