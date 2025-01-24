@@ -97,8 +97,8 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
+# skills:
+ # - name: Technical Skills
     items:
       - name: Python
         description: ''
@@ -112,7 +112,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+#  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -130,12 +130,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
