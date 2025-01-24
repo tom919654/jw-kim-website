@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Jiwook Kim
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
