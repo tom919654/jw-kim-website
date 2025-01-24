@@ -7,9 +7,6 @@ title: 'DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editabil
 authors:
   - Jiwook Kim
   - Seonho Lee
-  - Jaeyo Shin
-  - Jiho Choi
-  - Hyunjung Shim
 
 # Author notes (optional)
 author_notes:
