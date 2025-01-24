@@ -44,8 +44,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openreview.net/forum?id=FA5ZAJlv96'
-url_code: 'https://github.com/kaist-cvml/DreamCatalyst'
+url_pdf: 'https://proceedings.bmvc2023.org/243/'
+url_code: 'https://github.com/tom919654/C3G-NeRF'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
