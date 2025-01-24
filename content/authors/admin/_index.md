@@ -70,17 +70,6 @@ education:
     summary: |
       GPA: 4.5/4.5
       Ranked 1st in the college of engineering.
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
     
 work:
   - position: KAIRI Intern
@@ -98,6 +87,13 @@ work:
     date_start: 2021-03-10
     date_end: 2024-02-17
     summary: Advisor was Minhyeok Lee.
+
+  - position: Research Intern
+    company_name: Electronics and Telecommunications Research Institute
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-01-01
+    date_end: 20242-02-28
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
