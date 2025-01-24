@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        👋 Hi Y’all! I’m a M.S. student @KAIST, Graduate School of AI (GSAI). My research focuses on high-dimensional vision challenges, including 3D reconstruction, videos, and 4D generation. Recently, I have been exploring how to learn representations in high-dimensional vision spaces by leveraging the power of 2D vision foundation models. I strongly believe that bridging the gap between 2D vision and higher-dimensional vison tasks holds the key to conquer this field.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        👋 Hi Y’all! I’m a M.S. student @KAIST, Graduate School of AI (GSAI). My research focuses on high-dimensional vision challenges, including 3D reconstruction, videos, and 4D generation. Recently, I have been exploring how to learn representations in high-dimensional vision spaces by leveraging the power of 2D vision foundation models. I strongly believe that bridging the gap between 2D vision and higher-dimensional vison tasks holds the key to conquer this field. Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
