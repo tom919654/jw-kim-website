@@ -65,7 +65,7 @@ education:
     #   url: 'https://example.com'
   - area: B.S. in Electrical & Electronics Engineering
     institution: Chung-Ang University
-    # date_start: 2016-01-01
+    date_start: ''
     date_end: 2024-02-17
     summary: |
       GPA: 4.5/4.5
@@ -81,34 +81,23 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: KAIRI Intern
+    company_name: KAIST, Graduate school of AI
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    date_start: 2023-06-01
+    date_end: 2023-08-31
+    summary: Advisor: Jongchul Ye
+    
+  - position: Research Intern
+    company_name: Chung-Ang University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2021-03-10
+    date_end: 2024-02-17
+    summary: Advisor: Minhyeok Lee
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
