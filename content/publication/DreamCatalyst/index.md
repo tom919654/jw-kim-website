@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
