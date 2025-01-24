@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 publication: In *Engineering Applications of Artificial Intelligence*
 publication_short: In *EAAI*
 
-abstract: JCR 2.5%, IF: 7.5
+abstract: JCR 2.5\%, IF: 7.5
 
 tags:
   - 3D
