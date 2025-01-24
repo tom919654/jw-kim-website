@@ -3,7 +3,7 @@
 title: Jiwook Kim
 
 # Name pronunciation (optional)
-name_pronunciation: Jiwook Kim
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Jiwook
