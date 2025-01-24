@@ -93,7 +93,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-01-01
-    date_end: 20242-02-28
+    date_end: 2022-02-28
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -140,11 +140,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Recipient of the Research Encouragement Grant for Master’s Candidates
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2024-07-01'
+    awarder: National Research Foundation of Korea
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
