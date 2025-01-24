@@ -5,8 +5,8 @@ title: 'DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editabil
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jiwook Kim*
-  - Seonho Lee*
+  - Jiwook Kim
+  - Seonho Lee
   - Jaeyo Shin
   - Jiho Choi
   - Hyunjung Shim
