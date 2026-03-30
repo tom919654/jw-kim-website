@@ -39,17 +39,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -60,6 +49,16 @@ sections:
     design:
       view: citation
     
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
   - block: collection
     id: news
     content:

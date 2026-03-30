@@ -54,6 +54,12 @@ interests:
   - Inverse Rendering
 
 education:
+  - area: Ph.D. in Artificial Intelligence
+    institution: KAIST, Graduate School of AI
+    date_start: 2026-03-01
+    date_end: ''
+    summary: |
+      Pursuing a Ph.D. in Artificial Intelligence at KAIST, Graduate School of AI.
   - area: M.S. in Artificial Intelligence
     institution: KAIST, Graduate School of AI
     date_start: 2024-02-26
@@ -71,6 +77,14 @@ education:
       GPA: 4.5/4.5 (Ranked 1st in the college of engineering.)
     
 work:
+  - position: Research Intern
+    company_name: Naver AI Lab
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-04-01
+    date_end: 2025-10-31
+    summary: ''
+
   - position: KAIRI Intern
     company_name: KAIST, Graduate school of AI
     company_url: ''
