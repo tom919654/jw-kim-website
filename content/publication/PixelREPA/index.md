@@ -2,8 +2,8 @@
 title: 'Representation Alignment for Just Image Transformers is not Easier than You Think'
 
 authors:
-  - Jaeyo Shin
-  - Jiwook Kim
+  - "Jaeyo Shin*"
+  - "Jiwook Kim*"
   - Hyunjung Shim
 
 author_notes:
