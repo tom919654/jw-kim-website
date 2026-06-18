@@ -19,7 +19,7 @@ publishDate: '2026-03-17T00:00:00Z'
 publication_types: ['article']
 
 publication: '*arXiv preprint arXiv:2603.14366*'
-publication_short: '*ArXiv*'
+publication_short: '*ECCV 2026*'
 
 abstract: ''
 
